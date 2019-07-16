@@ -4,7 +4,7 @@ import (
 	"sync"
 	"testing"
 
-	observable "github.com/lockp111/go-observable"
+	observable "github.com/bull-b/go-observable"
 )
 
 func TestOn(t *testing.T) {

@@ -1,4 +1,4 @@
-module github.com/lockp111/go-observable
+module github.com/bull-b/go-observable
 
 require (
 	github.com/gopasspw/gopass v1.8.2
